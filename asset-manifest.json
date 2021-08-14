@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/epic-ecommerce-filter/static/css/main.d2995670.chunk.css",
-    "main.js": "/epic-ecommerce-filter/static/js/main.867bfe37.chunk.js",
-    "main.js.map": "/epic-ecommerce-filter/static/js/main.867bfe37.chunk.js.map",
+    "main.js": "/epic-ecommerce-filter/static/js/main.05f94967.chunk.js",
+    "main.js.map": "/epic-ecommerce-filter/static/js/main.05f94967.chunk.js.map",
     "runtime-main.js": "/epic-ecommerce-filter/static/js/runtime-main.5b2ce6a1.js",
     "runtime-main.js.map": "/epic-ecommerce-filter/static/js/runtime-main.5b2ce6a1.js.map",
-    "static/js/2.e2d32346.chunk.js": "/epic-ecommerce-filter/static/js/2.e2d32346.chunk.js",
-    "static/js/2.e2d32346.chunk.js.map": "/epic-ecommerce-filter/static/js/2.e2d32346.chunk.js.map",
+    "static/js/2.14bcd670.chunk.js": "/epic-ecommerce-filter/static/js/2.14bcd670.chunk.js",
+    "static/js/2.14bcd670.chunk.js.map": "/epic-ecommerce-filter/static/js/2.14bcd670.chunk.js.map",
     "index.html": "/epic-ecommerce-filter/index.html",
     "static/css/main.d2995670.chunk.css.map": "/epic-ecommerce-filter/static/css/main.d2995670.chunk.css.map",
-    "static/js/2.e2d32346.chunk.js.LICENSE.txt": "/epic-ecommerce-filter/static/js/2.e2d32346.chunk.js.LICENSE.txt"
+    "static/js/2.14bcd670.chunk.js.LICENSE.txt": "/epic-ecommerce-filter/static/js/2.14bcd670.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5b2ce6a1.js",
-    "static/js/2.e2d32346.chunk.js",
+    "static/js/2.14bcd670.chunk.js",
     "static/css/main.d2995670.chunk.css",
-    "static/js/main.867bfe37.chunk.js"
+    "static/js/main.05f94967.chunk.js"
   ]
 }
