@@ -49,7 +49,7 @@ export const dataList = [
     cuisine: "american",
     rating: 5,
     price: 2500,
-    coverSrc: "images/places/ameri.jpg",
+    coverSrc: "/images/places/ameri.jpg",
   },
   {
     id: 2,
@@ -60,7 +60,7 @@ export const dataList = [
     cuisine: "italian",
     rating: 4,
     price: 1000,
-    coverSrc: "images/places/italian.webp",
+    coverSrc: "/images/places/italian.webp",
   },
   {
     id: 3,
